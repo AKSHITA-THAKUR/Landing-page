@@ -1,0 +1,11 @@
+.work_gallery{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+.imgcontainer{
+    padding: 1rem;
+}
+
+.imgcontainer img{
+    width: 100%;
+}

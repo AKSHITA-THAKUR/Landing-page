@@ -1,0 +1,45 @@
+.price-container{
+    display: flex;
+justify-content: space-around;
+
+}
+.pricing-section{
+    background-color: grey;
+}
+.price{
+    padding: 80px;
+    color: white;
+}
+.card{
+    width: 400px;
+  margin-bottom: 50px;
+}
+li{
+    padding: 20px;
+    
+}
+.highlight{
+    height: 100px;
+    background-color: red;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 30px;
+    color: white;
+}
+.blacky{
+    background-color: black;
+    height: 100px;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 30px;
+    color: white;
+}
+.vdda{
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+}
+.price-button{
+    background-color: black;
+    color: white;
+}

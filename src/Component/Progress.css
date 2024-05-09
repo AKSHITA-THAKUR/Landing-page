@@ -1,0 +1,28 @@
+.main-div{
+  padding: 100px;
+   display: grid;
+   grid-template-columns: 50% 50%;
+}
+
+.photo{
+    height: 30px;
+    width: 30px;
+}
+.work_skill{
+    padding: 1rem;
+}
+.work_skill p{
+    font-size: 16px;
+  
+}
+.work_skill progress {
+    padding: 1.5 rem;
+    width: 100%;
+}
+.skillDeatil{
+    padding: 1rem;
+}
+.skillDeatil p {
+    font: 16px;
+    
+}

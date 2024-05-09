@@ -1,0 +1,39 @@
+.Contact{
+  background-color: #f1f1f1;
+}
+.contact_Icon img {
+  width: 30px;
+}
+.contact-box{
+    display: grid;
+    grid-template-columns: 50% 50% ;
+    
+}
+.icon-box{
+    margin-left: 250px;
+    margin-top: 80px;
+}
+.contact_Icon {
+  display: flex;
+  align-items: center;
+}
+
+.contact_Icon p {
+  text-align: start;
+  padding-left: 2rem;
+}
+
+.contact_form{
+    font-size: 20px;
+    margin-left: 150px;
+    
+   
+}
+
+.contact_form input {
+    margin: 10px;
+   
+}
+.city_img img {
+  width: 100%;
+}

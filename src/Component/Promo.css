@@ -1,0 +1,19 @@
+.promo-container{
+    display: flex;
+    background-color: #616161;
+    height: 200px;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+.block{
+    display: block;
+    height: 100px;
+    margin-top: 60px;
+
+}
+.txt{
+    color: white;
+}
+.wtxt{
+    color: white;
+}
